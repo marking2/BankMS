@@ -1,2 +1,0 @@
-# BankMS
-Java
